@@ -1,2 +1,10 @@
 # diginance-master
 This repo is master management details for all projects.
+
+## Usage
+1. All repo listed below hosted on GitHub with Private setting
+2. Only assigned collabs user able to view repos
+3. Only assigned collabs with SSH Key to the repos can do pull requets and update pushes.
+
+## Community
+1. Connect to the team with Discord: https://discord.gg/p5eGGgMg2v
