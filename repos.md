@@ -12,3 +12,9 @@
 # Info
 
 Please check on README.MD for guidelines.
+
+# FAQs
+
+### Why the REPO page shows 404?
+
+There is posible the collaborator is not in the Collaborator tab. Contact with repo admin to add into Collaborator list. 
