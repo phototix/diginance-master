@@ -3,11 +3,11 @@
 1. SmartBlast (EzyChat):
   https://github.com/phototix/smartblast-wasystem.git
   
-2. QuickPay (Paynow.asia):
-  Pending
+2. QuickPay (CheckInPay.Asia):
+  https://github.com/phototix/checkinpay.git
 
 3. OrderNow:
-  Pending
+  https://github.com/phototix/ordernow-master.git
   
 # Info
 
