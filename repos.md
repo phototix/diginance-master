@@ -9,6 +9,9 @@
 3. OrderNow:
   https://github.com/phototix/ordernow-master.git
   
+4. AI Plus Master Copy
+  https://github.com/phototix/AI-Plus-Master.git
+  
 # Info
 
 Please check on README.MD for guidelines.
