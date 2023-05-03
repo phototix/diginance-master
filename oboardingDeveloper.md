@@ -16,8 +16,8 @@ Download link: https://desktop.github.com/
 
 ### Onboarded
 /* Listed with onboarded developer
-1) Amanda
-2) urbiswax - Done.
+1) [] Amanda
+2) [x] urbiswax - Done.
 
 ### Offboarded
 /* Listed with offboarded developer
