@@ -8,3 +8,8 @@ This repo is master management details for all projects.
 
 ## Community
 1. Connect to the team with Discord: https://discord.gg/p5eGGgMg2v
+2. Private Note system using Joplin.
+  2.1 We are using Joplin private hosting as a knowledge library to sync all technical details.
+  2.2 Email to brandon@kkbuddy.com to get your own set of Joplin private sync details to connect
+ 
+## Disclamer and Notes
