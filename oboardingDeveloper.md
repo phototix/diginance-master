@@ -18,6 +18,8 @@ Download link: https://desktop.github.com/
 /* Listed with onboarded developer
 1) [ ] Amanda
 2) [x] urbiswax - Done.
+3) [ ] RekrapMot
+4) [ ] ComputerWisdom
 
 ### Offboarded
 /* Listed with offboarded developer
