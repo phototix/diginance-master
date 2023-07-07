@@ -13,7 +13,7 @@
   https://github.com/phototix/AI-Plus-Master.git
 
 5. SimpleBlast (EzyChat):
-  https://github.com/phototix/smartblast-wasystem.git
+ https://github.com/phototix/smartBlastSimple
   
 # Info
 
